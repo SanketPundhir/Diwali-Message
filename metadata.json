@@ -1,0 +1,6 @@
+{
+  "name": "A Magical Diwali Surprise for Bhutki",
+  "description": "A magical, romantic and interactive Diwali greeting journey dedicated to Bhutki Darling Baccha with glowing diyas, love surprises, virtual crackers, and heartfelt shayari.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
